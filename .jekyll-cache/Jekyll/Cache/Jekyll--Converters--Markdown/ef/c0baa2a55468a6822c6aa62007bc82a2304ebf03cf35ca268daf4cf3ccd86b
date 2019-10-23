@@ -1,0 +1,32 @@
+I"<h1 id="cmd-invite-de-commandes-windows">CMD: invite de commandes Windows</h1>
+<p><a href="https://fr.wikipedia.org/wiki/Cmd" title="clic pour savoir">Pour commencer</a>
+—
+Le Cmd est un logiciel d’interprétation des commandes DOS, Windows et OS/2 qui permettait de pouvoir dans un premier temps avoir le meme langague de commande dans ces differant environnement de travaille.</p>
+
+<p>Son ancêtre fut MS-DOS qui permettait de lancer des script BATCH (.bat) ce qui est l’equivalent du Shell dans un system Linuss (<em>linux pour les intime</em>).</p>
+
+<p>les commandes principals pour ce deplacé ou faire des manipulations dans le CMD.</p>
+
+<h2 id="liste-des-commandes"><a href="https://windows.developpez.com/cours/ligne-commande/?page=page_3" title="clic si t'es cap">Liste des commandes</a></h2>
+<ul>
+  <li><strong>CD</strong> : Change directory (changer de dossier).</li>
+  <li><strong>DIR</strong> : Voir le contenu du dossier ou on est.</li>
+  <li><strong>DEL</strong> : Supprimer un ou plusieur fichier.</li>
+  <li><strong>COPY</strong> : Permet de faire une copie d’un fichier.</li>
+  <li><strong>EXIT</strong> : Permet de fermet l’invité de commande.</li>
+  <li><strong>CLS</strong> : Permet de vider l’invité de commande.</li>
+  <li><strong>RM</strong> ou <strong>RMDIR</strong> : Supprime un répertoire.</li>
+</ul>
+
+<p><em>l’essayer c’est l’adopter hein</em> <img src="./img/marion.png" alt="" /></p>
+
+<h2 id="exécution-de-linterpréteur-de-commandes-"><strong>Exécution de l’interpréteur de commandes :</strong></h2>
+<hr />
+<p>Sous Windows Vista, Windows 7, Windows 8 et Windows 10 et ultérieures, il suffit de taper la commande cmd dans la barre de recherches de Windows Desktop Search, situé dans le menu démarrer. Pour les autres versions antérieures (Windows XP, Windows 2000, etc), il faut aller dans Menu Démarrer &gt; Exécuter, puis taper cmd et cliquer sur OK.</p>
+
+<p><img src="./img/pouce.png" alt="Trop top" /></p>
+
+<p>In English if you want
+<a href="https://www.computerhope.com/cmd.htm">CMD</a>
+—</p>
+:ET

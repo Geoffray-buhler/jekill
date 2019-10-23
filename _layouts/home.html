@@ -1,0 +1,18 @@
+---
+layout : default
+---
+{% for post in site.articles %}
+<div class="col-12 col-md-6 p-2">
+    <div class="card zoom">
+        <img src="./assets/img/{{ post.title }}.png"
+            alt="image" class="m-2 img-fluid col-5">
+        <div class="card-body">
+            <h5 class="card-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h5>
+            <p class="card-text">Here is a short <span class="text-primary">{{ post.title | escape }}</span> overview.</p>
+        </div>
+    </div>
+</div>
+
+{%- endfor -%}

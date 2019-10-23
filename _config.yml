@@ -1,0 +1,7 @@
+title: title
+author: GitHub User
+email: your-email@domain.com
+
+collections:
+  articles:
+    output: true

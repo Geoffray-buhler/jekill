@@ -1,0 +1,10 @@
+<nav class="navbar navbar-light bg-dark">
+        <form class="form-inline">
+            <img class="logonav" src="./assets/img/logo.png">
+                {% for post in site.articles %}
+                <button class="btn btn-outline-success ml-3 mr-3" type="button">
+                    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                </button>
+                {%- endfor -%}
+        </form>
+      </nav>

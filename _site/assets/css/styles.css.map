@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"// Custom CSS\r\n.logonav{\r\n    width: 50px;\r\n    height: 50px;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACCA,AAAA,QAAQ,CAAA,EACJ,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,GACf"
+}

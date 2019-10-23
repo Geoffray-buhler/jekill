@@ -1,0 +1,25 @@
+I"�<h1 id="shell">Shell</h1>
+
+<p>Appelé « Shell Unix » comme son nom l’indique il s’agit d’un interpréteur de commandes destiné aux systèmes d’exploitation Unix permettant l’accès aux fonctionnalités internes du système d’exploitation. 
+Les fonctions sont les mêmes que ces copains: exécuter des commandes, explorer l’arborescence du système, créer, éditer et supprimer des fichiers…</p>
+
+<h2 id="il-existe-2-modes-dutilisation-">Il existe 2 modes d’utilisation :</h2>
+
+<h3 id="interactif-">Interactif :</h3>
+<p>l’utilisateur saisit et exécute ses lignes de commandes une par une dans un terminal.</p>
+
+<h3 id="non-interactif-">Non interactif :</h3>
+<p>le shell lit un ensemble de commandes à partir d’un fichier appelé shell script. Toutes les commandes que l’on utilise dans les scripts shell sont des commandes du système que l’on connait déjà : ls, cut, grep, sort…</p>
+
+<h5 id="son-terminal-est-une-interface-en-ligne-de-commande-simple-en-mode-texte-dans-lequel-des-lignes-de-commandes-peuvent-être-saisies">Son terminal est une interface en ligne de commande simple en mode texte dans lequel des lignes de commandes peuvent être saisies.</h5>
+
+<h5 id="lequivalent-chez-microsoft-windows--command-com-ou-cmdexe">L’equivalent chez Microsoft Windows : command-com”, ou cmd.exe.</h5>
+<p>Il existe plusieurs environnements console dont la meilleure amélioration deShell et la plus repandue : <strong>Bash</strong>.</p>
+
+<p>Pour découvrir les différentes commandes et lignes de commande c’est par là:</p>
+
+<p>https://doc.ubuntu-fr.org/commande_shell</p>
+
+<p>https://giphy.com/gifs/KauxAkDyemtk4/html5</p>
+
+:ET

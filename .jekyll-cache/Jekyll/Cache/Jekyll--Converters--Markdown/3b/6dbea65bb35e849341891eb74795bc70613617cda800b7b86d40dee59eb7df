@@ -1,0 +1,54 @@
+I"�<h1 id="powershell-langage-de-script-windows">POWERSHELL: Langage de Script/ Windows</h1>
+
+<blockquote>
+  <p>PowerShell est un interpréteur de ligne de commande et langage de script qui repose sur la technologie .NET.</p>
+</blockquote>
+
+<p><strong>+d’infos:</strong></p>
+<ul>
+  <li>
+    <p><a href="https://docs.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7">PowerShell Script Overview par MicroSoft</a></p>
+  </li>
+  <li>
+    <p><a href="https://fr.wikipedia.org/wiki/Windows_PowerShell">Wikipedia: Windows PowerShell</a></p>
+  </li>
+</ul>
+
+<h2 id="il-permet">Il permet:</h2>
+<ul>
+  <li>Développer des GUI (Graphical User Interface)
+    <ul>
+      <li><a href="https://lazyadmin.nl/powershell/powershell-gui-howto-get-started/">Get Started PowerShell GUI</a></li>
+    </ul>
+  </li>
+  <li>Administrer un système d’explotation (Linux, macOS et Windows) et les processus.</li>
+  <li>Gérer les utilisateurs dans l’Active Directory–Gestion du réseau (identification, authentification,…)
+    <ul>
+      <li><a href="https://fr.wikipedia.org/wiki/Active_Directory">Wikipedia: Active Directory</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="editeur-de-script-windows-powershell-ise">Editeur de Script “Windows PowerShell ISE”</h2>
+
+<blockquote>
+  <p>Windows PowerShell Integrated Scripting Environment (ISE) est une application hôte pour Windows PowerShell.</p>
+</blockquote>
+
+<p>Dans ISE, vous pouvez <code class="highlighter-rouge">exécuter</code> des commandes et <code class="highlighter-rouge">écrire</code>, <code class="highlighter-rouge">tester</code> et <code class="highlighter-rouge">déboguer</code> des scripts dans une seule interface utilisateur graphique Windows.</p>
+
+<h2 id="lancement-du-powershell">Lancement du PowerShell</h2>
+
+<p>2 méthodes:</p>
+<ol>
+  <li>Cliquer sur démarrer &gt; Windows PowerShell &gt; PowerShell ISE</li>
+  <li>Dans la barre de recherche ou CLI &gt; taper: powershell_ise.exe</li>
+</ol>
+
+<h2 id="exemple-de-script">Exemple de Script</h2>
+
+<p><img src="Capture.PNG" alt="Exemple de script" /></p>
+
+<p><a href="https://openclassrooms.com/fr/courses/3664366-creez-votre-premier-script-avec-powershell"><strong>Cours de Powershell par OpenClassroom</strong></a></p>
+
+:ET
